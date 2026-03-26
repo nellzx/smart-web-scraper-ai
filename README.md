@@ -2,7 +2,13 @@
 
 An AI-powered desktop application that extracts and summarizes content from any website.
 
-No Python required — just download and run the `.exe`.
+Built with:
+-Python (Code)
+-Tkinter (UI)
+-Sumy (Local Summarizer)
+-Cohere (AI module online)
+
+No Python required for using — just download and run the `.exe`.
 
 ---
 
