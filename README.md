@@ -19,8 +19,9 @@ No Python required — just download and run the `.exe`.
 ---
 
 ## 🖥️ Demo
-
-![App Screenshot](screenshot.png)
+<img width="1000" height="647" alt="screenshot1" src="https://github.com/user-attachments/assets/84c5d391-b51e-4158-93ba-800da3f489ae" />
+<img width="1001" height="649" alt="screenshot2" src="https://github.com/user-attachments/assets/f2c3a254-c695-4aba-a7de-c8d90a27ce4b" />
+<img width="999" height="648" alt="screenshot3" src="https://github.com/user-attachments/assets/401c1091-bafe-45cc-bd5c-b346a145a0c5" />
 
 ---
 
